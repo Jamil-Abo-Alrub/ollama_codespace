@@ -1,0 +1,9 @@
+__pycache__
+mlruns
+Streamlit_app_rename
+2. Services Microsoft Azure.ipynb
+app2.py
+mlflow.db
+run.sh
+test_client.py
+test_mlflow.ipynb
